@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta name="description" content="Did you know that pepper is a silent killer...">
     
-    <link rel="icon" href="static/tinbanpep.png">
+    <link rel="icon" href="{{url_for("static", filename="tinbanpep.png")}}">
     
-    <link rel="stylesheet" href="static/materialize/css/materialize.min.css">
+    <link rel="stylesheet" href="{{url_for("static", filename="materialize/css/materialize.min.css")}}">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
-    <link href="static/styles.css" rel="stylesheet">
+    <link href="{{url_for("static", filename="styles.css")}}" rel="stylesheet">
     
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
     <title>Tinubu Places Ban on Fresh Pepper in Nigeria</title>
@@ -113,7 +113,7 @@
         
     </footer>
     
-    <script src="static/materialize/js/materialize.min.js"></script>
-    <script src="static/index.js"></script>
+    <script src="{{url_for("static", filename="materialize/js/materialize.min.js")}}"></script>
+    <script src="{{url_for("static", filename="index.js")}}"></script>
 </body>
 </html>
