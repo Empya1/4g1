@@ -1,0 +1,128 @@
+
+.navbar {
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.dropdown-content{
+    z-index:1000;
+}
+
+.top-margin {
+    margin-top:4rem;
+}
+
+.introimg {
+    border-radius:1rem;
+}
+
+.bebas-100 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.bebas-200 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.bebas-300 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.bebas-400 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bebas-500 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bebas-600 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.bebas-700 {
+  font-family: "bebas neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.rubik-100 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.rubik-200 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.rubik-300 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.rubik-400 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-500 {
+  font-family: "rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.rubik-600 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.rubik-700 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+blockquote{
+    border-color: #ffffff;
+}
+
+.social-items{
+    display:inline;
+}
+
+.social-items li {
+    margin-left:15px;
+    display:inline;
+}
